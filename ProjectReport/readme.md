@@ -26,16 +26,16 @@ End Scene:
 	After successful collection of coins, Main Scene will be redirected to End Scene where the game ends. 
 * All these scene transfers happens with the help of UnityEngine.SceneManagement
 Learning Outcomes:
-1.	To Scale GameObjects in Unity
-2.	To add colors to 3D game objects
-3.	To create prefabs and accessing their properties.
-4.	To create and programming the scripts
-5.	To move, rotate, jump GameObjects 
-6.	To make camera follow the GameObjects.
-7.	To add components like direction light, audio source
-8.	To add audio, sound effects in the game.
-9.	To create canvas, background, textures, UI text properties etc.,
-10.	To change or transfer game scenes 
+	1.To Scale GameObjects in Unity
+	2.To add colors to 3D game objects
+	3.To create prefabs and accessing their properties.
+	4.To create and programming the scripts
+	5.To move, rotate, jump GameObjects 
+	6.To make camera follow the GameObjects.
+	7.To add components like direction light, audio source
+	8.To add audio, sound effects in the game.
+	9.To create canvas, background, textures, UI text properties etc.,
+	10.To change or transfer game scenes 
 
 Future Work:
 This game can be developed further with extra levels, powers to the ball and it can also be build to deploy in AppStore and PlayStore. 
